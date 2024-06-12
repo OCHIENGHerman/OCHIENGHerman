@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working at Nairobitripes—a privately owned organization. Nairobitripes(trademarked); subsidiaries (rumen, reticulum, and omasum)
+<!-- 🔭 I’m currently working at Nairobitripes—a privately owned organization. 
+Nairobitripes(trademarked); subsidiaries (rumen, reticulum, and omasum) -->
