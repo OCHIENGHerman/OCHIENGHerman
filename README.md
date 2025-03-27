@@ -3,6 +3,9 @@
 <!--
 **OCHIENGHerman/OCHIENGHerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![Herman](https://github.com/user-attachments/assets/6fd9b9b1-4f83-4705-9226-d89303eb7316)
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
