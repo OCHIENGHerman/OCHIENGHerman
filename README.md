@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+![Herman](https://github.com/user-attachments/assets/c4620f52-89ad-463e-af7f-1d972ec0cb25)
+
+
+
 <!--
 **OCHIENGHerman/OCHIENGHerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
