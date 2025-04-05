@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-![Herman](https://github.com/user-attachments/assets/c4620f52-89ad-463e-af7f-1d972ec0cb25)
 
 
 
