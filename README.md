@@ -2,8 +2,6 @@
 
 
 
-<img width="154" height="535" alt="image" src="https://github.com/user-attachments/assets/68f49ba3-d139-43a0-957c-1d45996ac131" />
-
 <!--
 **OCHIENGHerman/OCHIENGHerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
